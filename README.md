@@ -3,7 +3,7 @@
 
 >This was created to allow me to keep track of all the books I have read since starting to learn Web Developement.
 They will be listed in the same order they were read in.
-I have done this to enable planing of further reading based on what has been read.
+I have done this to enable planning of further reading based on what has been read.
 
 _This list could be used by anyone aspiring to learn Web or Software Developement for the first time._
 
@@ -27,5 +27,6 @@ I am currently reading:
 1. __Node.js the Right Way - Practical, Server-Side JavaScript That Scales__ - by Jim R.Wilson
 2. __Start Small, Stay Small: A Developers's Guide to Launching a Startup__ - by Rob Walling
 3. __The lean Startup__ - by Eric Ries
+
 
 >I will constantly update this list.
