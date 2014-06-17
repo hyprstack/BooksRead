@@ -27,6 +27,6 @@ I am currently reading:
 
 1. __Node.js the Right Way - Practical, Server-Side JavaScript That Scales__ - by Jim R.Wilson
 2. __The lean Startup__ - by Eric Ries
-
+3. __The surprising truth about what motivates us - Drive__ - by Daniel H. Pink
 
 >I will constantly update this list.
