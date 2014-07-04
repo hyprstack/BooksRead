@@ -20,13 +20,13 @@ The list is:
 7. __Seven Databses in Seven Weeks__ - by Eric Redmond & Jim R.Wilson (I did not read the entire book.....only what I needed at the time)
 8. __GEO, CouchDB & Node.js__ - by Mark Thompson
 9. __Start Small, Stay Small: A Developers's Guide to Launching a Startup__ - by Rob Walling (This book is not a programming book, but a guide to a start-up. It is worth reading)
+10. __The lean Startup__ - by Eric Ries
 
 =============================
 
 I am currently reading:
 
 1. __Node.js the Right Way - Practical, Server-Side JavaScript That Scales__ - by Jim R.Wilson
-2. __The lean Startup__ - by Eric Ries
-3. __The surprising truth about what motivates us - Drive__ - by Daniel H. Pink
+2. __The surprising truth about what motivates us - Drive__ - by Daniel H. Pink
 
 >I will constantly update this list.
