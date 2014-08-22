@@ -22,12 +22,14 @@ The list is:
 9. __Start Small, Stay Small: A Developers's Guide to Launching a Startup__ - by Rob Walling (This book is not a programming book, but a guide to a start-up. It is worth reading)
 10. __The lean Startup__ - by Eric Ries
 11. __The surprising truth about what motivates us - Drive__ - by Daniel H. Pink
+12. __Node.js the Right Way - Practical, Server-Side JavaScript That Scales__ - by Jim R.Wilson
 
 =============================
 
 I am currently reading:
 
-1. __Node.js the Right Way - Practical, Server-Side JavaScript That Scales__ - by Jim R.Wilson
-2. __The 100$ Startup - fire your boss, do what you love and work better to live more__ by Chris Guillebeau
+1. __The 100$ Startup - fire your boss, do what you love and work better to live more__ by Chris Guillebeau
+2. __Node Up and Running__ by Tom Hughes-Croucher & Mike Wilson
+3. __Learning Node__ by Shelly Powers
 
 >I will constantly update this list.
